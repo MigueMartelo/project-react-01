@@ -1,0 +1,10 @@
+.Header-phone, .Header-email, .Header-website {
+  display: inline-block;
+  padding-right: 25px;
+}
+
+.Header-email, .Header-website, a {
+  color: black;
+  cursor: pointer;
+  text-decoration: none;
+}

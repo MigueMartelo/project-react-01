@@ -1,0 +1,8 @@
+.Experiences-list ul{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.Experiences-item {
+  padding-right: 15px;
+}

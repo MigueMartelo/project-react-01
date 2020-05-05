@@ -1,0 +1,23 @@
+body {
+  background-color: #93c9cb;
+  font-family: 'Montserrat';
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.Header, .Profile, .Experience, .Academic, .Skills, .Interest, .Languages {
+  background-color: aliceblue;
+  border-radius: 10px;  
+  margin: 10px 0;
+  padding: 20px;
+}
+
+.Academic, .Skills, .Interest, .Languages {  
+  display: inline-block;  
+  width: 45%;
+}

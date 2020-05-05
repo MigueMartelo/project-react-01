@@ -1,0 +1,10 @@
+.Profile {
+  background-color: aliceblue;
+  border-radius: 10px;
+  margin: 10px 0;
+  padding: 20px;
+}
+
+.Profile-desc {
+  line-height: 30px;
+}

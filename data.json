@@ -1,27 +1,13 @@
 {
   "data": {
-    "name": "Melissa Walsh",
-    "profession": "FrontEnd Developer",
-    "address": "Bogotá, Colombia.",
-    "email": "melissa@example.com",
+    "name": "Miguel Angel Martelo Quiroz",
+    "profession": "System Engineer",
+    "address": "Cartagena, Colombia.",
+    "email": "miguemartelo1031@gmail.com",
     "website": "https://example.com",
-    "phone": "3042034240",
-    "avatar": "https://arepa.s3.amazonaws.com/melissa.jpg",
-    "Profile": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
-    "certificate": [
-      {
-        "date": "Jan 2021",
-        "description": "Hack up furballs try to jump onto window and fall while scratching at wall. ",
-        "institution": "Platzi",
-        "name": "FrontEnd Developer"
-      },
-      {
-        "date": "Jan 2021",
-        "description": "Scratch at the door then walk away wack the mini furry mouse",
-        "institution": "Platzi",
-        "name": "Backend Developer"
-      }
-    ],
+    "phone": "3004104898",
+    "avatar": "https://s.gravatar.com/avatar/d439f3054c67d52e6a804841843425ea?s=200",
+    "Profile": "I'm a passionated for web development, I enjoy working with technologies in the frontend where I can highlight technologies like Html, Css and Javascript which are my strong skills. All the time, I am looking for opportunities to learn and grow up as a professional. Also, I have the capacity of adapting to the change and work with multi functional teams. I consider myself as a responsible person.",
     "Academic": [
       {
         "degree": "Atomic Master",
@@ -40,70 +26,76 @@
     ],
     "experience": [
       {
-        "company": "PugStar",
+        "company": "S4N",
         "endDate": "Present",
-        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
-        "jobTitle": "Frontend",
-        "startDate": "Jan 2020"
+        "jobDescription": "Frontend developer working with ReactJs, HTML, and CSS, implementing best practices in the company's projects. I use git for version controls.",
+        "jobTitle": "Frontend Developer",
+        "startDate": "Sept 2019"
       },
       {
-        "company": "CatStore",
-        "endDate": "Jan 2016",
-        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
-        "jobTitle": "Backend",
-        "startDate": "Sept 2019"
+        "company": "Universidad Tecnológica de Bolívar",
+        "endDate": "Sept 2019",
+        "jobDescription": "Webmaster academic platform, virtual courses (moodle), Back-end developer (php), Front-end developer (ReactJS), Servers administration, Databases administration (mysql)",
+        "jobTitle": "Technical Leader",
+        "startDate": "Feb 2017"
+      },
+      {
+        "company": "Zeus Tecnología",
+        "endDate": "Feb 2017",
+        "jobDescription": "Developer with javascript, c#, and SQLServer",
+        "jobTitle": "Software Developer I",
+        "startDate": "Jul 2016"
       }
     ],
     "skills": [
       {
         "name": "HTML5",
-        "percentage": "75%"
+        "percentage": "95%"
       },
       {
         "name": "CSS",
-        "percentage": "25%"
+        "percentage": "80%"
       },
       {
         "name": "JavaScript",
-        "percentage": "55%"
+        "percentage": "80%"
       },
       {
         "name": "React",
-        "percentage": "90%"
+        "percentage": "75%"
+      },
+      {
+        "name": "PHP",
+        "percentage": "50%"
       }
     ],
-    "interest": [
-      "javascript",
-      "develop",
-      "backend",
-      "frontend"
-    ],
+    "interest": ["javascript", "develop", "backend", "frontend"],
     "languages": [
       {
         "name": "Spanish",
-        "percentage": "90%"
+        "percentage": "95%"
       },
       {
         "name": "English",
-        "percentage": "50%"
+        "percentage": "65%"
+      },
+      {
+        "name": "Italian",
+        "percentage": "5%"
       }
     ],
     "social": [
       {
-        "name": "facebook",
-        "url": "https://facebook.com/"
-      },
-      {
         "name": "twitter",
-        "url": "https://twitter.com/"
+        "url": "https://twitter.com/miguemartelo31"
       },
       {
         "name": "github",
-        "url": "https://github.com/"
+        "url": "https://github.com/miguemartelo"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/"
+        "url": "https://www.linkedin.com/in/miguelmartelo"
       }
     ]
   }

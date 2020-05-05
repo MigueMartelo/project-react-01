@@ -1,0 +1,9 @@
+.Header {
+  display: grid;
+  grid-template-columns: 25% 75%;
+}
+.Header img {
+  border-radius: 50%;
+  padding: 10px;
+}
+
